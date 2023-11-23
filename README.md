@@ -66,7 +66,7 @@ This project is dedicated to building a machine learning model for detecting fra
 
 ### Project Structure
 
-- **/credit_card_fraud:**
+- **credit_card_fraud:**
   - Contains notebooks and visualizations specific to the Credit Card Fraud Detection project.
 
 ## 3. Sales Prediction using Python
