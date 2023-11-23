@@ -94,16 +94,7 @@ This project focuses on predicting sales using machine learning techniques.
 - Pandas
 - Matplotlib
 
-### Project Structure
-
-- **/sales_prediction:**
-  - Contains notebooks and visualizations specific to the Sales Prediction project.
-
-## Getting Started
-
-1. Clone the repository: `git clone [repository_url]`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Explore individual project directories for detailed instructions and analyses.
+**Thank You**
 
 
 
